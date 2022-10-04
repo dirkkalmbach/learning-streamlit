@@ -26,6 +26,8 @@ st.markdown(
     - Explore a [New York City rideshare dataset](https://github.com/streamlit/demo-uber-nyc-pickups)
 """
 )
+
+"""
 st.markdown("# `streamlit_d3graph` example")
 from streamlit_d3graph import d3graph
 
@@ -43,3 +45,4 @@ d3.show()
 
 d3.set_node_properties(label=label, color=label, cmap='Set1')
 d3.show()
+"""
