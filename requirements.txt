@@ -2,4 +2,3 @@ altair
 pandas
 numpy
 pydeck
-io
